@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @binodmainali1
+- 👋 Hi, I’m @binodmainali
 - 👀 I’m interested in building scalable software systems
 - 🚀 Currently part of truecaller with 350 Millions users
 - 🌱 I’m currently working in Golang
